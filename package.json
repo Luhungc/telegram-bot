@@ -1,0 +1,16 @@
+{
+  "name": "Telegram bot",
+  "version": "1.0.0",
+  "description": "Simple telegram bot, base by luhungch.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "luhungch",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "latest",
+    "node-fetch": "^2.6.13",
+    "yt-search": "latest",
+  }
+}
